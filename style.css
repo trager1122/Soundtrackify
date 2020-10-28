@@ -1,0 +1,98 @@
+.site{
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+.soundtrackify-brand{
+    background-color: red;
+}
+
+.brand-text{
+    color: yellow;
+    margin-top: 15px;
+    margin-left: 5px;
+    font-family: 'Russo One', sans-serif;
+}
+
+.spotify-connect{
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: 40px;
+}
+
+.spotify-button{
+    margin-left: 5px;
+}
+
+.pg-background{
+    background-image: url("https://images.pexels.com/photos/4088009/pexels-photo-4088009.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+}
+
+.site-content{
+    flex: 1;
+}
+.search-input{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.user-instructions{
+    font-family: 'Viga', sans-serif;
+    font-size: x-large;
+    color: lightyellow;
+}
+
+.ideas-btn{
+    margin-top: 10px;
+    color: yellow;
+    margin-bottom: 10px;
+    font-family: 'Viga', sans-serif;
+}
+
+.content{
+    padding-left: 10px;
+}
+
+#soundtrack{
+    margin-left: 10px !important;
+}
+.playlist-display{
+    margin-left: 50px;
+}
+
+#lyricsDisplay{
+    padding-left: 10px !important;
+}
+.lyrics-display{
+    margin-right:50px;
+}
+
+.display-text{
+    font-family: 'Viga', sans-serif;
+    color: lightyellow;
+    font-size:large;
+}
+
+footer{
+    padding: 10px !important;
+    background-color: yellow !important;
+}
+
+p{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.trackButton {
+    background-color: red;
+    color: white;
+    text-align: center;
+    display: block;
+}
+
+.trackButton:hover {
+    background-color: yellow;
+    color: black;
+    text-align: center;
+}
