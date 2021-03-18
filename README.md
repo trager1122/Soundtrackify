@@ -1,7 +1,7 @@
 # Soundtrackify
 Project Title: Soundtrackify
 
-Description: Create a soundtracked based upon keywords not necessarily just a song title
+Description: Create a soundtrack based upon keywords not necessarily just a song title or artist
 
 User Story: 
 A user can create a soundtrack with a simple keyword search and save the soundtrack to a text for future reference
