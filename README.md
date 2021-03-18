@@ -1,12 +1,21 @@
 # Soundtrackify
-Project Title: Soundtrackify, Pickify,
+Project Title: Soundtrackify
 
-Description: The user will select a length of time in their Instagram history, and our application will analyze their tags and use Spotify to generate a soundtrack that corresponds to the photos.
+Description: Create a soundtracked based upon keywords not necessarily just a song title
 
-User Story: AS A person with many Instagram photos I WANT to generate a soundtrack that corresponds to the photos SO THAT I can listen to curated music inspired by my life
+User Story: 
+A user can create a soundtrack with a simple keyword search and save the soundtrack to a text for future reference
 
-Sketch:
+Deployed Website: https://samuelbaetz.github.io/soundtrackbuilder/
+Github Repo: https://github.com/samuelbaetz/soundtrackbuilder
 
-APIs Used: Spotify- Web API Instagram Basic Display API
+![image](https://user-images.githubusercontent.com/69808653/111653484-572d2d00-87de-11eb-9645-65435c1312cd.png)
 
-Breakdown of Tasks: Instagram API - Richard Walter Spotify API - Samuel Baetz Javascript/Jquery functions - Thomas Rager HTML/CSS/Structure - Damon Melo, Jordan Liddell
+APIs Used: 
+Spotify- Web API, Lyric API from API Seeds
+
+
+Breakdown of Tasks:
+Lyrics API - Richard Walter
+Spotify API and FileSaver - Samuel Baetz
+Javascript/Jquery functions/HTML/CSS/Structure - Thomas Rager
